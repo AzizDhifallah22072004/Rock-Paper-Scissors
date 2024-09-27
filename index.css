@@ -30,8 +30,10 @@ img {
   margin-top: 60px;
 }
 .reset-score-button {
-  background-color: white;
-  border: none;
+  background-color: rgb(25, 25, 25);
+  border: 2px solid rgb(255, 214, 101);
+  border-radius: 50px;
+  color: rgb(255, 214, 101);
   font-size: 15px;
   padding: 8px 15px;
   cursor: pointer;
